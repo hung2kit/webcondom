@@ -1,0 +1,27 @@
+#nqv{
+background-color: beige;
+}
+#row-3{
+    background-color: beige;
+    width: 250px;
+    height: 250px;
+}
+#img-nqv{
+    width: 250px;
+    height: 250px;
+}
+#beheo{
+    background-color: #f1617e;
+}
+
+#icon-nqv{
+    margin-left: 120px;
+    font-size: 80px;
+    color: aliceblue;
+}
+#font-nqv{
+    font-family: kanit;
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 120px;
+}

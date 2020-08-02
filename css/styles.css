@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .p-2 {
     padding: 2.0rem !important;
 }
@@ -5,6 +6,38 @@
  margin-bottom: 0 !important;
 }
 /* .grid-line {
+=======
+
+#nqv{
+background-color: beige;
+
+}
+#row-3{
+    background-color: beige;
+    width: 250px;
+    height: 250px;
+}
+#img-nqv{
+    width: 250px;
+    height: 250px;
+}
+#beheo{
+    background-color: #f1617e;
+}
+
+#icon-nqv{
+    margin-left: 120px;
+    font-size: 80px;
+    color: aliceblue;
+}
+#font-nqv{
+    font-family: kanit;
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 120px;
+
+.grid-line {
+>>>>>>> 5deef48c39cdb9368a28cf9966cdfd88256d09ea
     background-color: lightpink;
     width: 90%;
     height: 30px;
@@ -40,5 +73,10 @@
 
 .btn-cart {
     margin-left: 20px;
+<<<<<<< HEAD
 }
 
+=======
+
+}
+>>>>>>> 5deef48c39cdb9368a28cf9966cdfd88256d09ea

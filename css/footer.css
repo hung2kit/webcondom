@@ -89,7 +89,7 @@
     font-size: 15px;
 }
 
-@media(max-width: 600px) {
+@media(max-width: 900px) {
     .footer .mini_footer {
         width: 90%;
     }

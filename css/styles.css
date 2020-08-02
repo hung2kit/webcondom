@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-.p-2 {
-    padding: 2.0rem !important;
-}
-.mb-3 {
- margin-bottom: 0 !important;
-}
-/* .grid-line {
+
+.grid-line {
 =======
 
 #nqv{
@@ -73,10 +67,4 @@ background-color: beige;
 
 .btn-cart {
     margin-left: 20px;
-<<<<<<< HEAD
-}
-
-=======
-
-}
->>>>>>> 5deef48c39cdb9368a28cf9966cdfd88256d09ea
+    }

@@ -80,7 +80,7 @@
     }
     
 #icon-nqv{
-        margin-left: 46%;
+        
         font-size: 50px;
         color: aliceblue;
         padding-top: 5%;
@@ -89,14 +89,15 @@
 #font-nqv{
         font-family: cursive;
         color: aliceblue;
-        font-size: 30px;
-        margin-left: 40%;
+        font-size: 30px;       
         padding-bottom: 5%;
     }
 #font-qv{
         font-family: cursive;
         color: aliceblue;
-        font-size: 30px;
-        margin-left: 36%;
+        font-size: 30px;        
         padding-bottom: 5%;
+    }
+    #row-4{
+        text-align: center;
     }

@@ -1,39 +1,102 @@
-
-#nqv{
-background-color: beige;
-
+.navbar-light .navbar-brand {
+    color: #e3007b;
 }
+
+.navbar {
+    margin-left: 15px;
+    margin-right: 15px;
+    border-bottom: 0.2rem solid #e3007b;
+    margin-bottom: 20px;
+}
+
+.headM {
+    margin-right: 25px;
+    font-size: 12pt;
+}
+
+.nav-item {
+    display: block;
+    padding-right: 10px;
+}
+
+.btn-cart {
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-sm-6, .col-lg-3 {
+    padding-bottom: 20px;
+}
+@media (max-width: 990px) { 
+    .navbar {
+        font-size: 1.5rem;
+        border-bottom: 0.3rem solid #e3007b;
+        margin-bottom: 2%;
+    }
+    .navbar-brand {
+        font-size: 1.5rem;
+    }
+    .card {
+       font-size: 1.5rem;
+    }
+    .card h5 {
+        font-size: 1.5rem;
+    }
+ }
+
+ #nqv{
+    background-color:white;
+    
+    }
 #row-3{
-    background-color: beige;
-    width: 250px;
-    height: 250px;
+        background-color: white;
+    }
+#okamoto{
+    margin-left: 1,5%;
+    width:100%;
+    height: auto;
+    padding-top: 25%;
 }
-#img-nqv{
-    width: 250px;
-    height: 250px;
+ #img-nqv{
+        margin-left: 1,5%;
+        width:100%;
+        height: auto;
+        
+    }
+#gex{
+    margin-left: 1,5%;
+    width:100%;
+    height: auto;
+    padding-top: 33%;
+}
+
+#row-3 a:hover{
+    opacity: 0.2;
+    filter: alpha(opacity=50);
 }
 #beheo{
-    background-color: #f1617e;
-}
-
+        background-color: #f1617e;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    
 #icon-nqv{
-    margin-left: 120px;
-    font-size: 80px;
-    color: aliceblue;
-}
+        margin-left: 46%;
+        font-size: 50px;
+        color: aliceblue;
+        padding-top: 5%;
+        
+    }
 #font-nqv{
-    font-family: kanit;
-    color: aliceblue;
-    font-size: 20px;
-    margin-left: 120px;
-
-.grid-line {
-    background-color: lightpink;
-    width: 100%;
-    height: 30px;
-    margin: 5% 0 5% 0;
-}
-.btn-cart {
-    margin-left: 20px;
-
-}
+        font-family: cursive;
+        color: aliceblue;
+        font-size: 30px;
+        margin-left: 40%;
+        padding-bottom: 5%;
+    }
+#font-qv{
+        font-family: cursive;
+        color: aliceblue;
+        font-size: 30px;
+        margin-left: 36%;
+        padding-bottom: 5%;
+    }

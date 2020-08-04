@@ -42,3 +42,61 @@
         font-size: 1.5rem;
     }
  }
+
+ #nqv{
+    background-color:white;
+    
+    }
+#row-3{
+        background-color: white;
+    }
+#okamoto{
+    margin-left: 1,5%;
+    width:100%;
+    height: auto;
+    padding-top: 25%;
+}
+ #img-nqv{
+        margin-left: 1,5%;
+        width:100%;
+        height: auto;
+        
+    }
+#gex{
+    margin-left: 1,5%;
+    width:100%;
+    height: auto;
+    padding-top: 33%;
+}
+
+#row-3 a:hover{
+    opacity: 0.2;
+    filter: alpha(opacity=50);
+}
+#beheo{
+        background-color: #f1617e;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    
+#icon-nqv{
+        margin-left: 46%;
+        font-size: 50px;
+        color: aliceblue;
+        padding-top: 5%;
+        
+    }
+#font-nqv{
+        font-family: cursive;
+        color: aliceblue;
+        font-size: 30px;
+        margin-left: 40%;
+        padding-bottom: 5%;
+    }
+#font-qv{
+        font-family: cursive;
+        color: aliceblue;
+        font-size: 30px;
+        margin-left: 36%;
+        padding-bottom: 5%;
+    }

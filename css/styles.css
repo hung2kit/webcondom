@@ -1,3 +1,40 @@
+html, body { 
+    font-size: 18px;
+    color: #222;
+}
+
+.navbar-header {
+    background-color: rgb(255, 105, 105) !important;
+    margin-top: 2%;
+    padding-left: 5%;
+}
+
+.navbar li a:hover{
+    color:white !important;
+}
+
+
+
+.header1{
+    margin-top: 5%;
+    margin-left: 76px;
+}
+
+
+.header2 ul li{
+   color: white !important;
+}
+
+.carousel-inner img{
+    width: 100%;
+}
+
+.carousel-banner {
+display: inline-block;
+ color: white;
+ padding: 1px 2px;
+}
+
 .navbar-light .navbar-brand {
     color: #e3007b;
 }
@@ -7,6 +44,11 @@
     margin-right: 15px;
     border-bottom: 0.2rem solid #e3007b;
     margin-bottom: 20px;
+}
+
+.navbar-brand.navbar-homepage {
+    color: black;
+    font-size: 18px;
 }
 
 .headM {
@@ -77,6 +119,7 @@
         background-color: #f1617e;
         padding-top: 3%;
         padding-bottom: 3%;
+        margin-bottom: 2%;
     }
     
 #icon-nqv{
@@ -87,13 +130,13 @@
         
     }
 #font-nqv{
-        font-family: cursive;
+      
         color: aliceblue;
         font-size: 30px;       
         padding-bottom: 5%;
     }
 #font-qv{
-        font-family: cursive;
+        
         color: aliceblue;
         font-size: 30px;        
         padding-bottom: 5%;
